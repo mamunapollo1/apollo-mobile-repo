@@ -1,0 +1,56 @@
+.sajek{
+    color: blue;
+    background-color: aquamarine;
+    
+}
+.sajek h1{
+    color: red;
+}
+.sajek h3{
+    color: blueviolet;
+}
+.sajek p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+}
+
+/* martin section */
+.martin{
+    color: darkblue;
+    background-color: antiquewhite;
+}
+.martin h3{
+    color: blueviolet;
+    font-size: 2em;
+    text-align: center;
+}
+.martin p{
+    color: chartreuse;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align: justify;
+    margin: 50px 100px 150px;
+    padding: 50px 100px 150px 200px;
+}
+
+/* sundorban section */
+
+.sundorbon{
+    color: brown;
+    background-color: cadetblue;
+}
+
+.sundorbon h3{
+    color: chartreuse;
+    font-style: normal;
+    font-size: 40px;
+}
+
+.sundorbon p{
+    color: coral;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
