@@ -54,3 +54,18 @@
     font-weight: 500;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.mamun h1{
+    color: chartreuse;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: monospace;
+    text-align: center;
+
+}
+
+#mamun22 h2{
+    font-size: 22px;
+    color: crimson;
+    
+}
